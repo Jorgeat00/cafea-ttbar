@@ -40,8 +40,12 @@ MC3=['TTToSemiLeptonic','WWTo2L2Nu'] #'WZTo3LNu'
 MC4=['WZ','ZZ'] #'WW','ZZTo4L','ZZTo2L2Nu'
 MC5=['TTG', 'TTZToLL_M_1to10', 'TTZToLLNuNu_M_10','TTWJetsToLNu','TTWJetsToQQ', 'TTZToQQ']
 MC6=['WWW_ext1', 'WWZ_ext1', 'WZZ_ext1','ZZZ_ext1'] #voy a quitar 'WWW','WWZ', 'WZZ', 'ZZZ'
+<<<<<<< HEAD
 
 #Listas para correr las muestras por tamaño
+=======
+#Listas
+>>>>>>> ca3b5dd (Changed file)
 MC_s=['tW_noFullHad', 'tbarW_noFullHad','WJetsToLNu_MLM','DYJetsToLL_M_10to50_MLM','TTToSemiLeptonic','WWTo2L2Nu','WZTo3LNu','WW','WZ','ZZ']
 MC_l=['TTTo2L2Nu','DYJetsToLL_M_50_MLM','ZZTo2L2Nu']
 
